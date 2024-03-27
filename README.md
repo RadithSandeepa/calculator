@@ -14,7 +14,7 @@ This is a simple online calculator project built using HTML, CSS, and JavaScript
 
 ## Screenshots
 
-![Game start](https://github.com/RadithSandeepa/snake-game/blob/main/Images/gamestart.png)
+![Calculator](https://github.com/RadithSandeepa/calculator/blob/main/Images/calculator.png)
 
 ## Features
 
