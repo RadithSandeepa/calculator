@@ -56,7 +56,7 @@ This is a simple online calculator project built using HTML, CSS, and JavaScript
 Feel free to fork this repository and contribute to the project. Help fix bugs, implement new features, or suggest improvements to enhance the project.
 
 
-## Play Now
+## Try Now
 
 Explore the calculator project hosted on https://radithsandeepa.github.io/calculator/ and start calculating now!
 
